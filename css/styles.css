@@ -1,0 +1,23 @@
+#head-1 {
+  color: purple;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: antiquewhite;
+}
+
+h2.intro {
+  color: seagreen;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.intro {
+  color: darkblue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img.intro {
+  width: 100px;
+}
+
+.intro {
+  background-color: lightcoral;
+}
