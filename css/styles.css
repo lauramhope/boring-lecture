@@ -4,20 +4,21 @@
   background-color: antiquewhite;
 }
 
-h2.intro {
+h2 {
   color: seagreen;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-p.intro {
+p {
   color: darkblue;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-img.intro {
-  width: 100px;
+img {
+  width: 50%;
 }
 
 .intro {
   background-color: lightcoral;
+  width: 60%;
 }
