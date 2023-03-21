@@ -4,6 +4,10 @@
   background-color: antiquewhite;
 }
 
+body {
+  background-color: yellow;
+}
+
 h2 {
   color: seagreen;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -21,4 +25,28 @@ img {
 .intro {
   background-color: lightcoral;
   width: 60%;
+}
+
+#buttonLight {
+  border: none;
+  color: goldenrod;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#buttonDark {
+  border: none;
+  color: navy;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
 }
